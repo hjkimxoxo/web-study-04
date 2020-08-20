@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 
 @WebServlet("/actionTag")
-public class actionTag extends HttpServlet {
+public class paramTagServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 
